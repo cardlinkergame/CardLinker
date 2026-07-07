@@ -4,6 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Boot.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/TechTreeScene.unity
+    guid: 9a19de35bb9bdd845bb302ff9bea6dbc
+  - enabled: 1
+    path: Assets/Scenes/GameplayScene.unity
+    guid: f52e64788742ca14ea2797ee46440bd2
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
