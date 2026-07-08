@@ -1,0 +1,2840 @@
+fileFormatVersion: 2
+guid: 7963cfa41abc657469423fdd87b10395
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotEmpty_Power
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1997
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ce4e2f2efe14d4e930c5dd9adcde3f
+      internalID: -556062419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotFull_Power
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1997
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa692fe8a1b077479ac464610ffb5f9
+      internalID: -1367560974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotEmpty_Fluid
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1997
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425deeacfbb3d734ebc063c9fc579a4b
+      internalID: -1928947630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotFull_Fluid
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1997
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c4d2d1753f314b8571035770b160a
+      internalID: 877360987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_InBackground
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1999
+        width: 64
+        height: 37
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d010311c8d5f749a799d058ca8d08d
+      internalID: -1184710592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_LevelBorderOrganisation
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1979
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf8de6f78feac1438c049a5ef69626f
+      internalID: 1132004189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_LevelBorderFacility
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1979
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03930ab48c53214da3bd5b2a3a75bb2
+      internalID: 1719439915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FillBarPanel
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2011
+        width: 261
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b050540f4b063f4ab00b8117d1c5114
+      internalID: -1407779166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerWorkstationButton_Novice
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1987
+        width: 230
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f285f0a478627bc40b1a9e6d2d71787d
+      internalID: 1785188742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotEmpty_Solid
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1946
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc1af8f2c9648e47bf7e6a76316de7b
+      internalID: 839081682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotFull_Solid
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1946
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7d796ab8089c8448ee7c32bfb6e1b5
+      internalID: -1162318713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_Flash_PowerOn
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1961
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54a3ce73e1e7f34cac8afbe1a1f96f0
+      internalID: -2095724275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_Flash_PowerOff
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1961
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffdab08925f2b54ea32434bd1f00da0
+      internalID: -1080360662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OutBackground
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1953
+        width: 64
+        height: 37
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7984b30efe3cbd45a20533165c0678c
+      internalID: 920677962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FillBar
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1983
+        width: 261
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8234b418f719ee409bd6c117674aaf3
+      internalID: 1110788947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_PowerOut
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1903
+        width: 83
+        height: 41
+      alignment: 9
+      pivot: {x: 0.775, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180fb93b88faee846879f8ef3b9c3701
+      internalID: -321371352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FillBarShadow
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1938
+        width: 278
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ceb3d255507844280928dc57e31269
+      internalID: 973929617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerWorkstationButton_Skilled
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1933
+        width: 230
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b664e3a89f178b48890b2ba58d06731
+      internalID: 1489079853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_PowerIn
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1852
+        width: 83
+        height: 41
+      alignment: 9
+      pivot: {x: 0.225, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173e7a7f2d6cc040930da1375ec6c20
+      internalID: -1620740132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerWorkstationButton_Proficent
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1878
+        width: 230
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d17112ccd2ed14585cdccadcb3f858
+      internalID: -1494013084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerWorkstationButton_Chief
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1825
+        width: 230
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3193bfb089a21654da4182ac08ebf03e
+      internalID: 1152357686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerWorkstationButton_Master
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1770
+        width: 230
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a050205dee634f8bb040532f1f380
+      internalID: 1804918693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Shadow
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 790
+        width: 284
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f824857215c4b42b07a83ded96c920
+      internalID: -1814045234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_PlaceIndicator
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 790
+        width: 289
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0532b856923086d4791c4a1028a40796
+      internalID: 1758246600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Resource
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 400
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f0c1452106c6f4d925fc3669d398c8
+      internalID: 2128932316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Utility
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 400
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a0a9d430e2ed84db4c3b1b3306822e
+      internalID: -155494984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Extraction
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 400
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c47e2e6769a0144d80725d1f2dc6640
+      internalID: -358014380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_LifeForm
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 400
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318d4ef5809bfaa41abfe2c2daf6f01a
+      internalID: 410734983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Plant
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 400
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2a987603e467e4ea50c933b13f0cc8
+      internalID: 1269218626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Engineer_Chief
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4d2b36e63129c4c9bd52af59b295f2
+      internalID: -1678049531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Engineer_Master
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d072e5cdb9927d49b6664084a41167a
+      internalID: -620939832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Engineer_Proficent
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 10
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d14afb28d77c4eac106faf20714ba
+      internalID: 136858440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Engineer_Skilled
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 10
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90ea89b30002f549a9d4e868cf6478a
+      internalID: 394228204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Engineer_Novice
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 10
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd518bfa3cd8e1249a6cd808379093e8
+      internalID: 1907705302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Facility
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 10
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059cc37fab592b543aea782d1cd57d2e
+      internalID: 804958028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Organisation
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 10
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522875448d9c11c4286e90b75ae13af3
+      internalID: -902618338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FluidOut_Embed
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1803
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84793e427f3df446b42bb0ec36cd458
+      internalID: -1410101902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FluidIn_Embed
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1753
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e49342c1c3ded4d8ea54874067dac2
+      internalID: 1134135685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SolidIn_Embed
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1703
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ba37410a1adb44b690e52d4ce16c3
+      internalID: -2043600644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SolidOut_Embed
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1653
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b2b3dfd301e54408324dc200131ef2
+      internalID: 541397470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_StackBorder
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1941
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 0, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf22ca02d79753c4199e7ad9115b7187
+      internalID: 643401438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_CardIndicator
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1911
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265e333c6185b44b833ec0ac44fba2b
+      internalID: 151504657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_PowerOut_Embed
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1603
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd95067e6f0f0ac47af8c2328945897a
+      internalID: 151482700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_PowerIn_Embed
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1553
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8ae1bc9b3d0ee48bcb99815f5b0abe
+      internalID: -1592205243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1722
+        width: 256
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 41}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3f484a07c8e4f4a87c1d6e73e20353
+      internalID: 1957236801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_GroupArea_BG
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1720
+        width: 257
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 70, y: 70, z: 70, w: 80}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a22b9323a8303a4ebb394ff672b432f
+      internalID: -329487459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_ProgressGroupingBG
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1884
+        width: 164
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ea0a6d285adf84db7549ea22b7c996
+      internalID: -656387231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_ProgressRing_Fillbar
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1943
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3c3d1ef5179f043a3f9b46327f1827
+      internalID: -1386018589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_ProgressRingBG
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1943
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f1fddf317cd04408dd39d61e590082
+      internalID: 1505623300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1986
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa89c4027ae8394f84cbf36b70684fa
+      internalID: 2102845137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1986
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0533d280f27f4f4fb7b7b985e2997c0
+      internalID: -718357267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1986
+        width: 340
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b39a17463902741ad8e6d0e1513f3b
+      internalID: -1264175110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1986
+        width: 136
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab5ffc41cbb6fd4596f52308b0e5e7b
+      internalID: 1968309897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1994
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae12a11d6574df44ab4f35506abde48
+      internalID: -1653081217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1994
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d742050941106469b7e7f8d7db5c7c
+      internalID: 1611045881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2000
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc4d8631424bc649819bc3e609040ac
+      internalID: -1046213409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_GroupIndicator
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 789
+        width: 273
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692859e7320f2474693428c6487e1405
+      internalID: 195984967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FillBarPivot
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1906
+        width: 261
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f112de74fb80848a6224b00efebe69
+      internalID: -2124265145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachment_FactoryAlert_Hexagon_Red
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1919
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55483141d7c6d054c8714a6b245f265e
+      internalID: -1753643726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachment_FactoryAlert_Hexagon_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1919
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07b5bbd77a6bf40a9129a948ed7261
+      internalID: 803220873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachment_FactoryAlertIcon_NoRecipeSelected
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1851
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dbf6b4fb91c774e9f792ab31974cf1
+      internalID: 1344514002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FactoryAlertIcon_EnergyInputIsNotConnected
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1855
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cec1126513975a44ac4d938dd8da438
+      internalID: -800253976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FactoryAlertIcon_NotConnectedProperly
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1781
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6f07244829c8a468857ffa152cae3a
+      internalID: -375295829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FactoryAlertIcon_EnergyNeedsCouldNotBeMet
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1780
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b888e006cb424692207782045fbe8
+      internalID: -500833609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachment_FactoryAlertIcon_WarehouseFull
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1724
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805dd8256f05c3d46afe91930c45ce5e
+      internalID: 1995432416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FactoryAlertIcon_OutputStorageIsFull
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1711
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a76a9cee6f75ed41b3f25882b11cfd2
+      internalID: 159222433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FactoryAlertIcon_NoEnergyConsumers
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1664
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336146dab19577941b0047cb010f3fa7
+      internalID: -149130279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_MultiSelectionArea
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1936
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89af5aa5a810fae4f93a43918f39ea1e
+      internalID: 54550889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_CardPlaceIndicator
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 790
+        width: 272
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f8aa0321dafde41b059dd862094df8
+      internalID: 664142748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_Unique
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 400
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c9efc4670f6e43860a365f7c422db
+      internalID: 463895270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayEngineer_EmptySlot
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1451
+        width: 162
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c972b1b232606d45897b40964cd65ec
+      internalID: 481420233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayEngineer_DrAzula
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1454
+        width: 142
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a685a9855a666ae488d7a9130fee74ff
+      internalID: 1117065863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayRankBG_Master
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1451
+        width: 162
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4d74f5d738b0444ab78843699a1591
+      internalID: 1082084622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayRankBG_Chief
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1450
+        width: 162
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26af703c778b6fc489e5897fcd280e17
+      internalID: -162561503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayEngineer_ROSI-E
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1253
+        width: 162
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f05ae192807d8f47a9b818a456dc1bc
+      internalID: -1907292741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayRankBG_Proficient
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1256
+        width: 162
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1519e11e663dbb429a0f2e1cb9d7b43
+      internalID: 291557050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayRankBG_Novice
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1254
+        width: 162
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d233584df397fb643b7e950d6e7c9a13
+      internalID: 325346575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayRankBG_Skilled
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1256
+        width: 162
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe93e3db72abc746965bd2769f02a25
+      internalID: -1134412374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayProduct_SlotBG
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1600
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3831d4375e2b1408490ea20ef936d5
+      internalID: 1600186613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayProduct_Material
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1657
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d91dc2b30e2614fbf56a70eac069a7
+      internalID: 2087274295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayProduct_Energy
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1606
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dde578a445b27747936340bfafeae66
+      internalID: -978670418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_Card_BG_White
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 400
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1422a7eb95a2064b98b83c23052cd56
+      internalID: -950398983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_PowerOut_Embed_Triangle
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1603
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e578cfafd083f4c478699c117c856455
+      internalID: -1646923921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_PowerIn_Embed_Triangle
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1553
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca1b35b45560884e87a4535816bfc22
+      internalID: -492434738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SolidOut_Primitive
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1653
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418cfca276dcaca428cfdb4b8cdcd50b
+      internalID: 1748111113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SolidIn_Embed_Primitive
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1703
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3a4b965d2103c4391816a95f5e6264
+      internalID: 2111717047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FluidIn_Embed_Primitive
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1753
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02048140ca6ecb74997e02b8a6b94c6f
+      internalID: -493387093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_FluidOut_Embed_Primitive
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1803
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dd8ef01df784449805629d1a3b6699
+      internalID: 1601239789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_PowerOut_Triangle
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1903
+        width: 83
+        height: 41
+      alignment: 9
+      pivot: {x: 0.775, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349505ddf3578cb42a1a9caecbefda68
+      internalID: -1294046418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_PowerIn_Triangle
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1853
+        width: 83
+        height: 41
+      alignment: 9
+      pivot: {x: 0.225, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6710c86bf5340194781161ec3ce50b53
+      internalID: -1086826527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotFull_Power_Triangle
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1892
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b40db147e362458d42fcf9e076e55
+      internalID: 1545198850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotEmpty_Power_Triangle
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1842
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ea2868ee307d247b3b0921c4b7d4b1
+      internalID: -369060992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotFull_SolidPrimitive
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1692
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648e86d6099e015409619145cd2b625f
+      internalID: 968781250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotEmpty_SolidPrimitive
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1642
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240a6b471c429964c98d674d2d20ce8b
+      internalID: -689866059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotFull_FluidPrimitive
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1792
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c62aa47e96ca894286b183b65e4e641
+      internalID: -868355411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_DotEmpty_FluidPrimitive
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1742
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569ac1bcd7d78db4bba2704aee10817d
+      internalID: 754010309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayElectric_Consumer
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1743
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2412611a339790b469465f0ae04f8f5a
+      internalID: 964768745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_OverlayElectric_Producer
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1696
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a9ea360f5749941a26b3d92c840ee7
+      internalID: 2059825658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_OverLayFilterBG
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1914
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c1b3798f9b31a499f1b90b372197ad
+      internalID: 1215682688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_Tooltip_BG
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1873
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddda5110a91c8b4580712da703de51e
+      internalID: -55427399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_Tooltip_Line
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1873
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6742eee23952bc40a82c1c6b5e83490
+      internalID: -584014677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_Tooltip_Tag
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1847
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e0b50efc3301c40bc673018f957a0b
+      internalID: 2019194681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f133795eae9cebe4a960dbafb27818e5
+      internalID: 690112792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1804
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f239a4eac059c0d46a723fb71c133e80
+      internalID: -1423692032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerProfileMask
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1229
+        width: 231
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdcb1ac6ebcf534093dac2bd6343f7b
+      internalID: -179795796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerProfile_RankBorder
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1228
+        width: 233
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66114a268d2ab354ebad100a04784212
+      internalID: 149300864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_Assigned_Gradient
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1229
+        width: 231
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3e115faeee344b98ab30e3f154371
+      internalID: -581033715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_RankBG_Novice
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1810
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e6a7ce0390f3a48b2b48253c606dee
+      internalID: -705448773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_RankBG_Skilled
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1810
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610067389428265458fa53272636c0f4
+      internalID: 1932000500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_RankBG_Proficient
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1810
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4292116ac24db428af223bd3c770dd
+      internalID: 860964160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_RankBG_Master
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1810
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d185d6c8337cc14da3c70fbb6ba2996
+      internalID: -997733882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_RankBG_Chief
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1810
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0883e39418fa79842a79f1239bb63cd6
+      internalID: 32405082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_ExperienceFillBarPivot
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1879
+        width: 261
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61862c974b7da4f4f99e544ffe9ce4c4
+      internalID: 1697176182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_Nature
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1637
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9758db37217bb54dbd2f89d34780a11
+      internalID: -1899117316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_Gathering
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1637
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61af6cd5cbfbd646839a53ef64692d8
+      internalID: -586349721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_Economy
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1637
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f43f7190015cd94c9bea47b58a17a9b
+      internalID: 1124705988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_Generic
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1636
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b22c83c1f447b48abef0281c1060cc
+      internalID: 829719985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_Power
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1647
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98f72cc5854b4458769835cbf79a36
+      internalID: 141940537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_Chemical
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1645
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3ac0e8358cd174ab8ba2e21250cb93
+      internalID: 2130838231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_BioHazard
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1647
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e88b60a2b9782e49888e3f616df537f
+      internalID: -58140096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_Physics
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1645
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5901a132cb8d40c43a17984bea81c1fd
+      internalID: 2055481420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardAttachments_EngineerTag_Combat
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1645
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faaccb1da842d74893bb29d4df1a8cc
+      internalID: -41631431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FP_CardAttachment_FactoryAlertIcon_NoRecipeSelected: 1344514002
+      FP_CardAttachment_FactoryAlertIcon_WarehouseFull: 1995432416
+      FP_CardAttachment_FactoryAlert_Hexagon_Red: -1753643726
+      FP_CardAttachment_FactoryAlert_Hexagon_Yellow: 803220873
+      FP_CardAttachments_Assigned_Gradient: -581033715
+      FP_CardAttachments_CardIndicator: 151504657
+      FP_CardAttachments_CardPlaceIndicator: 664142748
+      FP_CardAttachments_DotEmpty_Fluid: -1928947630
+      FP_CardAttachments_DotEmpty_FluidPrimitive: 754010309
+      FP_CardAttachments_DotEmpty_Power: -556062419
+      FP_CardAttachments_DotEmpty_Power_Triangle: -369060992
+      FP_CardAttachments_DotEmpty_Solid: 839081682
+      FP_CardAttachments_DotEmpty_SolidPrimitive: -689866059
+      FP_CardAttachments_DotFull_Fluid: 877360987
+      FP_CardAttachments_DotFull_FluidPrimitive: -868355411
+      FP_CardAttachments_DotFull_Power: -1367560974
+      FP_CardAttachments_DotFull_Power_Triangle: 1545198850
+      FP_CardAttachments_DotFull_Solid: -1162318713
+      FP_CardAttachments_DotFull_SolidPrimitive: 968781250
+      FP_CardAttachments_EngineerProfileMask: -179795796
+      FP_CardAttachments_EngineerProfile_RankBorder: 149300864
+      FP_CardAttachments_EngineerTag_BioHazard: -58140096
+      FP_CardAttachments_EngineerTag_Chemical: 2130838231
+      FP_CardAttachments_EngineerTag_Combat: -41631431
+      FP_CardAttachments_EngineerTag_Economy: 1124705988
+      FP_CardAttachments_EngineerTag_Gathering: -586349721
+      FP_CardAttachments_EngineerTag_Generic: 829719985
+      FP_CardAttachments_EngineerTag_Nature: -1899117316
+      FP_CardAttachments_EngineerTag_Physics: 2055481420
+      FP_CardAttachments_EngineerTag_Power: 141940537
+      FP_CardAttachments_EngineerTag_RankBG_Chief: 32405082
+      FP_CardAttachments_EngineerTag_RankBG_Master: -997733882
+      FP_CardAttachments_EngineerTag_RankBG_Novice: -705448773
+      FP_CardAttachments_EngineerTag_RankBG_Proficient: 860964160
+      FP_CardAttachments_EngineerTag_RankBG_Skilled: 1932000500
+      FP_CardAttachments_EngineerWorkstationButton_Chief: 1152357686
+      FP_CardAttachments_EngineerWorkstationButton_Master: 1804918693
+      FP_CardAttachments_EngineerWorkstationButton_Novice: 1785188742
+      FP_CardAttachments_EngineerWorkstationButton_Proficent: -1494013084
+      FP_CardAttachments_EngineerWorkstationButton_Skilled: 1489079853
+      FP_CardAttachments_ExperienceFillBarPivot: 1697176182
+      FP_CardAttachments_FactoryAlertIcon_EnergyInputIsNotConnected: -800253976
+      FP_CardAttachments_FactoryAlertIcon_EnergyNeedsCouldNotBeMet: -500833609
+      FP_CardAttachments_FactoryAlertIcon_NoEnergyConsumers: -149130279
+      FP_CardAttachments_FactoryAlertIcon_NotConnectedProperly: -375295829
+      FP_CardAttachments_FactoryAlertIcon_OutputStorageIsFull: 159222433
+      FP_CardAttachments_FillBar: 1110788947
+      FP_CardAttachments_FillBarPanel: -1407779166
+      FP_CardAttachments_FillBarPivot: -2124265145
+      FP_CardAttachments_FillBarShadow: 973929617
+      FP_CardAttachments_Flash_PowerOff: -1080360662
+      FP_CardAttachments_Flash_PowerOn: -2095724275
+      FP_CardAttachments_FluidIn_Embed: 1134135685
+      FP_CardAttachments_FluidIn_Embed_Primitive: -493387093
+      FP_CardAttachments_FluidOut_Embed: -1410101902
+      FP_CardAttachments_FluidOut_Embed_Primitive: 1601239789
+      FP_CardAttachments_GroupArea_BG: -329487459
+      FP_CardAttachments_InBackground: -1184710592
+      FP_CardAttachments_LevelBorderFacility: 1719439915
+      FP_CardAttachments_LevelBorderOrganisation: 1132004189
+      FP_CardAttachments_MultiSelectionArea: 54550889
+      FP_CardAttachments_OutBackground: 920677962
+      FP_CardAttachments_OverlayElectric_Consumer: 964768745
+      FP_CardAttachments_OverlayElectric_Producer: 2059825658
+      FP_CardAttachments_OverlayEngineer_DrAzula: 1117065863
+      FP_CardAttachments_OverlayEngineer_EmptySlot: 481420233
+      FP_CardAttachments_OverlayEngineer_ROSI-E: -1907292741
+      FP_CardAttachments_OverlayProduct_Energy: -978670418
+      FP_CardAttachments_OverlayProduct_Material: 2087274295
+      FP_CardAttachments_OverlayProduct_SlotBG: 1600186613
+      FP_CardAttachments_OverlayRankBG_Chief: -162561503
+      FP_CardAttachments_OverlayRankBG_Master: 1082084622
+      FP_CardAttachments_OverlayRankBG_Novice: 325346575
+      FP_CardAttachments_OverlayRankBG_Proficient: 291557050
+      FP_CardAttachments_OverlayRankBG_Skilled: -1134412374
+      FP_CardAttachments_PowerIn: -1620740132
+      FP_CardAttachments_PowerIn_Embed: -1592205243
+      FP_CardAttachments_PowerIn_Embed_Triangle: -492434738
+      FP_CardAttachments_PowerIn_Triangle: -1086826527
+      FP_CardAttachments_PowerOut: -321371352
+      FP_CardAttachments_PowerOut_Embed: 151482700
+      FP_CardAttachments_PowerOut_Embed_Triangle: -1646923921
+      FP_CardAttachments_PowerOut_Triangle: -1294046418
+      FP_CardAttachments_ProgressGroupingBG: -656387231
+      FP_CardAttachments_ProgressRingBG: 1505623300
+      FP_CardAttachments_ProgressRing_Fillbar: -1386018589
+      FP_CardAttachments_SolidIn_Embed: -2043600644
+      FP_CardAttachments_SolidIn_Embed_Primitive: 2111717047
+      FP_CardAttachments_SolidOut_Embed: 541397470
+      FP_CardAttachments_SolidOut_Primitive: 1748111113
+      FP_CardAttachments_SpriteSheet_0: 1957236801
+      FP_CardAttachments_SpriteSheet_10: 1611045881
+      FP_CardAttachments_SpriteSheet_11: -1046213409
+      FP_CardAttachments_SpriteSheet_12: -1423692032
+      FP_CardAttachments_SpriteSheet_24: 1202162050
+      FP_CardAttachments_SpriteSheet_25: 7351601
+      FP_CardAttachments_SpriteSheet_26: -978956302
+      FP_CardAttachments_SpriteSheet_4: 690112792
+      FP_CardAttachments_SpriteSheet_5: 2102845137
+      FP_CardAttachments_SpriteSheet_6: -718357267
+      FP_CardAttachments_SpriteSheet_7: -1264175110
+      FP_CardAttachments_SpriteSheet_8: 1968309897
+      FP_CardAttachments_SpriteSheet_9: -1653081217
+      FP_CardAttachments_StackBorder: 643401438
+      FP_CardAttachments_Tooltip_BG: -55427399
+      FP_CardAttachments_Tooltip_Line: -584014677
+      FP_CardAttachments_Tooltip_Tag: 2019194681
+      FP_Card_BG_Engineer_Chief: -1678049531
+      FP_Card_BG_Engineer_Master: -620939832
+      FP_Card_BG_Engineer_Novice: 1907705302
+      FP_Card_BG_Engineer_Proficent: 136858440
+      FP_Card_BG_Engineer_Skilled: 394228204
+      FP_Card_BG_Extraction: -358014380
+      FP_Card_BG_Facility: 804958028
+      FP_Card_BG_GroupIndicator: 195984967
+      FP_Card_BG_LifeForm: 410734983
+      FP_Card_BG_Organisation: -902618338
+      FP_Card_BG_PlaceIndicator: 1758246600
+      FP_Card_BG_Plant: 1269218626
+      FP_Card_BG_Resource: 2128932316
+      FP_Card_BG_Shadow: -1814045234
+      FP_Card_BG_Unique: 463895270
+      FP_Card_BG_Utility: -155494984
+      FP_Card_BG_White: -950398983
+      FP_OverLayFilterBG: 1215682688
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

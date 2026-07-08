@@ -1,0 +1,1967 @@
+fileFormatVersion: 2
+guid: 73d12da5b09acf7408944910e9155432
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FP_DeckPanel_SideFadeOut
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 340
+        width: 117
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e2b2bc0113c6478ab04c0f87eb77b
+      internalID: -2125157085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_DragToSell_YellowCardIndicator
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 420
+        width: 148
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d8c3847a60bc64bbfaf091791a58f2
+      internalID: -1533893521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_DragToSellCardIcon
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 420
+        width: 130
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd3c47cca0c8d4b82f716aa3be84a8
+      internalID: 797722755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_ExplorationIcon_Notificated
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 536
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898a2d26bd085746bf8a0248c1402d8
+      internalID: -915126878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_CrafterIcon_Notificated
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 536
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f47a21c3dbc1c647822e5d0f3c6eaad
+      internalID: -906013723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_CardLogIcon_Notificated
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 536
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9571d8ec01173ce49b323822a5d7d571
+      internalID: -1907002286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TraderIcon_Notificated
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 536
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4cdb465eda4b429faa759f4454dcc
+      internalID: 89617660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TechTreeIcon_Notificated
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 536
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738855c7e03998c49916b1c90f58d07d
+      internalID: -981266872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_ToggleArrow_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 496
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f02914255991a14a81f90d100f29d03
+      internalID: -2023030202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_ToggleArrow
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 496
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d739428addb942800d2f552d19b79
+      internalID: -443795206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_NotificationIcon
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 514
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd57d55f93f903d43b9799f8bb2cd602
+      internalID: -1242619391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_ExplorationIcon_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 497
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146933efffb592d4c87d5fff52eb3c69
+      internalID: -42732437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_CrafterIcon_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 497
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54fe0e9d9864e24e800144505289467
+      internalID: -625956664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_CardLogIcon_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 497
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c479bb2c672b48b97c923e13e016f
+      internalID: 1571265194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TraderIcon_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 498
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e4f14316159349837de86f854820f
+      internalID: 345094006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TechTreeIcon_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 497
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a5ac6e02cf19149b413590115f064b
+      internalID: -1109991414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SortingAreaIcon_ByName_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 484
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f6ae117ff5394d9d469234ab2038f
+      internalID: 32952820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SortingAreaIcon_ByCategory_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 486
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6259d651eac37e4459f379415b3a8e5f
+      internalID: 1950467300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_DragToSell_LockedIcon
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 480
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7bfe7099ce3724bab631ce14395b3a
+      internalID: -1588127769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SortingIcon_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 480
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d4b345b8be25d48acd03277a63c94c
+      internalID: 880427245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SortingIcon
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 480
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140d916fa0566fb41b1ba9f06ec5df8f
+      internalID: -1069269564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_DragToSell_FacreditPopUpArea_FacreditIcon
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 467
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce401afddaf016947ab0ee3d43713a8c
+      internalID: -1364801850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_ToogleAreaBackground
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 469
+        width: 77
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf7466ad7826884f9fdf5c40029d5dd
+      internalID: -2051598292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_ExplorationIcon
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 458
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095064aa9ed73e44ba3f933ab55fb13f
+      internalID: -403785299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_CrafterIcon
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 458
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32be7f91c98188a4eb1ead9671ea45fa
+      internalID: 2039837242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_CardLogIcon
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 458
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211ee6c2223af7845bf556c5a692d141
+      internalID: -1050883053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TraderIcon
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 458
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414469b15c008c94b980721f0ff06e2c
+      internalID: -1230806482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TechTreeIcon
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 458
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1ecf357f2217c4889bbdd9a9738752
+      internalID: -291543369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SortingAreaIcon_ByName
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 447
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a0c560472ad244ba8ed699df4f1a9
+      internalID: 184514487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SortingAreaIcon_ByCategory
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 444
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1065ee479cae748a287e8c0478c586
+      internalID: -837221536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_DragToSell_FacreditPopUpArea_Background
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 404
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c62980771f33438ed29ea79603739
+      internalID: 719443811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_PauseButton
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 450
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e91386cb3a321e4f85cdf44bfefdd67
+      internalID: 89844542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_PlayButton
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 450
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd31d36999cdc1145ab174914a37245c
+      internalID: 1356819301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SpeedRunx2Button
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 450
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea89278ad3a2e04bb363a9ebd263bb8
+      internalID: -584444406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SpeedRunx3Button
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 450
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f29d37fd45ff41af4dd77810a68e1
+      internalID: -1752117120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SortingAreaBackground
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 382
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 0, z: 30, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3944451157e9244957b1f0b44d6915
+      internalID: -1334997666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_PauseButton_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 420
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b05d60712b231343becd8a695d41f1e
+      internalID: 1331731652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_PlayButton_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 420
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa3c4d365e9fa49b35df0b4d9e9a1c
+      internalID: 1190341910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SpeedRunx2Button_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 420
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32906c3481b9874b9742bf3d1273d3c
+      internalID: 1163208265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SpeedRunx3Button_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 420
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb67cf4aeb366a849a1c7c1d9ac16207
+      internalID: 250528957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_ExplorationIcon_Locked
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 420
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de984f67e5da0a4eb463f4306d679c1
+      internalID: 901611275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_CrafterIcon_Locked
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 420
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd83fdeadc84b6e418389f35d4506271
+      internalID: 406164460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_CardLogIcon_Locked
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 420
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b182abe1794694ba87ef8956ea8399
+      internalID: 255626356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TraderIcon_Locked
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 420
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcaff6e0442fb94d8cda0bfccce14fd
+      internalID: -2062981725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TechTreeIcon_Locked
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 420
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fb069f98e81054dbe80533b89326d1
+      internalID: -41789226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_NpcNotificatorBackground
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 342
+        width: 478
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82217b6432b11447be5ae946602e3f1
+      internalID: -522132333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SearchBarBackground
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 340
+        width: 234
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f4b22ad75a0a4aa8c9acf61e315ab
+      internalID: -2131261723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SectionButton_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 340
+        width: 140
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7c6ef75dfe2e543b91274f630da4cd
+      internalID: 1361091413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_QuickMenuHeaderBar
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 340
+        width: 558
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38842ec8ed09c6a47987d7b5cc131d94
+      internalID: -1687035706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_UpperHeaderBar
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 277
+        width: 1920
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f68d72638b8c64e83dfe56f52c53a6
+      internalID: 627664192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_CardDeckPanel_Background
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 1920
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e170363dade0b12458e3d9c920617605
+      internalID: 937901207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_DeckArea_VerticalDivider
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 8
+        width: 4
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5524f0c924f1b47914859b312aa8cb
+      internalID: 2046332411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_UpperDeckArea_VerticalDivider
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 9
+        width: 4
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f93ac9fae37314f9b844807aa3a17e
+      internalID: -805446021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SettingsIcon_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 573
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2875c07a436934aa097219adfb8f15
+      internalID: -1874970308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TechPointCounterIcon
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 606
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e88cb465e4ff4383ced5fdb224e02
+      internalID: -610329793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_EngineerCardIcon
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 606
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb630530145ddd4fbc8868fb65c9cb3
+      internalID: 528441540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_FacreditIcon
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 606
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd7272d9571e2c4e8d3f77de1f96339
+      internalID: 609549996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_CardCounterIcon
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 573
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fefac830dcb164408780f682feaaa77
+      internalID: 290298605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SettingsIcon
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 606
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f1f754da46aa9438d0c380cf2765c9
+      internalID: 1141439096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_MenuIcon_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 573
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced2bf941e8ebf44ac53940c72c588e
+      internalID: 1281114080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_MenuIcon
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 606
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98571d7427c2f474a8efa2d562c90644
+      internalID: -840485189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_StatsPanel_Background
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 644
+        width: 548
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7765f78b5be1754686454f8a921f721
+      internalID: 630735149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_StatsPanelDivider
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 513
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fef199dc8201c24cb01e772acddd6bd
+      internalID: 1548238004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayPanelBG
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 655
+        width: 317
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12af2be90c04eb642be4d0794f4b1eb1
+      internalID: -1117891189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_All
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 619
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a897f02377d8944b040a1a45afeb9d
+      internalID: -1184896090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_Material
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 619
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991afbeb889d45745aebccf99d53c532
+      internalID: -1886031355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_Engineer
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 619
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fc57d11814ff4b89fcdd00232351e
+      internalID: -326532316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_Energy
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 619
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698c14d56209dca4ebdf1d08d4f57328
+      internalID: -2081940509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_Alert
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 619
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a81753cd516834dbe0c482c31208be
+      internalID: -1741319013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_Alert_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 586
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7afc27981e7dfa4ab476ad629e3e4fb
+      internalID: 95613738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_Energy_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 586
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ad4d54372ad5a4797c4a332d56cf06
+      internalID: -1177530839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_Engineer_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 586
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a61e9a38d440340aeeb8cbf35c1852
+      internalID: 506916820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_Material_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 586
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e51103af51aae0428c8a402d199c8b1
+      internalID: 1876106035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_OverlayIcon_All_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 586
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f7de1ad3b823145a44879bc4208392
+      internalID: 293178065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_AlphaEmpty
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377f1fc841cc9b84cb17455ff9d9b14f
+      internalID: 1132807040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TechHubIcon_Notificated
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 536
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fda28555c664c8448100b6ddd6cc1ae
+      internalID: -808503198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TechHubIcon_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 497
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2bc56c30320514aafa68a70e7b875d
+      internalID: -1026606264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TechHubIcon
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 458
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d785f35965bc6e4eb9c1dce7e6cb2f2
+      internalID: -1615457642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_TechHubIcon_Locked
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 420
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd738f4bb8319647b6d5545e71a68fc
+      internalID: 1091190363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SortingAreaIcon_ByStackAmount_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 523
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c849a2c6e0e01248a142c667c48fab1
+      internalID: 137083539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SortingAreaIcon_ByStackAmount
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 523
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271cd5ae7d50a0488769979c5d283f5
+      internalID: -1297996869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FP_DeckPanel_SectionButton_Highlighted2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 341
+        width: 140
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef48400ba1a69dc4ab123e73b862eef9
+      internalID: -610344843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FP_CardDeckPanel_Background: 937901207
+      FP_DeckPanel_AlphaEmpty: 1132807040
+      FP_DeckPanel_CardCounterIcon: 290298605
+      FP_DeckPanel_CardLogIcon: -1050883053
+      FP_DeckPanel_CardLogIcon_Highlighted: 1571265194
+      FP_DeckPanel_CardLogIcon_Locked: 255626356
+      FP_DeckPanel_CardLogIcon_Notificated: -1907002286
+      FP_DeckPanel_CrafterIcon: 2039837242
+      FP_DeckPanel_CrafterIcon_Highlighted: -625956664
+      FP_DeckPanel_CrafterIcon_Locked: 406164460
+      FP_DeckPanel_CrafterIcon_Notificated: -906013723
+      FP_DeckPanel_DeckArea_VerticalDivider: 2046332411
+      FP_DeckPanel_DragToSellCardIcon: 797722755
+      FP_DeckPanel_DragToSell_FacreditPopUpArea_Background: 719443811
+      FP_DeckPanel_DragToSell_FacreditPopUpArea_FacreditIcon: -1364801850
+      FP_DeckPanel_DragToSell_LockedIcon: -1588127769
+      FP_DeckPanel_DragToSell_YellowCardIndicator: -1533893521
+      FP_DeckPanel_EngineerCardIcon: 528441540
+      FP_DeckPanel_ExplorationIcon: -403785299
+      FP_DeckPanel_ExplorationIcon_Highlighted: -42732437
+      FP_DeckPanel_ExplorationIcon_Locked: 901611275
+      FP_DeckPanel_ExplorationIcon_Notificated: -915126878
+      FP_DeckPanel_FacreditIcon: 609549996
+      FP_DeckPanel_MenuIcon: -840485189
+      FP_DeckPanel_MenuIcon_Highlighted: 1281114080
+      FP_DeckPanel_NotificationIcon: -1242619391
+      FP_DeckPanel_NpcNotificatorBackground: -522132333
+      FP_DeckPanel_OverlayIcon_Alert: -1741319013
+      FP_DeckPanel_OverlayIcon_Alert_Highlighted: 95613738
+      FP_DeckPanel_OverlayIcon_All: -1184896090
+      FP_DeckPanel_OverlayIcon_All_Highlighted: 293178065
+      FP_DeckPanel_OverlayIcon_Energy: -2081940509
+      FP_DeckPanel_OverlayIcon_Energy_Highlighted: -1177530839
+      FP_DeckPanel_OverlayIcon_Engineer: -326532316
+      FP_DeckPanel_OverlayIcon_Engineer_Highlighted: 506916820
+      FP_DeckPanel_OverlayIcon_Material: -1886031355
+      FP_DeckPanel_OverlayIcon_Material_Highlighted: 1876106035
+      FP_DeckPanel_OverlayPanelBG: -1117891189
+      FP_DeckPanel_PauseButton: 89844542
+      FP_DeckPanel_PauseButton_Highlighted: 1331731652
+      FP_DeckPanel_PlayButton: 1356819301
+      FP_DeckPanel_PlayButton_Highlighted: 1190341910
+      FP_DeckPanel_QuickMenuHeaderBar: -1687035706
+      FP_DeckPanel_SearchBarBackground: -2131261723
+      FP_DeckPanel_SectionButton_Highlighted: 1361091413
+      FP_DeckPanel_SectionButton_Highlighted2: -610344843
+      FP_DeckPanel_SettingsIcon: 1141439096
+      FP_DeckPanel_SettingsIcon_Highlighted: -1874970308
+      FP_DeckPanel_SideFadeOut: -2125157085
+      FP_DeckPanel_SortingAreaBackground: -1334997666
+      FP_DeckPanel_SortingAreaIcon_ByCategory: -837221536
+      FP_DeckPanel_SortingAreaIcon_ByCategory_Highlighted: 1950467300
+      FP_DeckPanel_SortingAreaIcon_ByName: 184514487
+      FP_DeckPanel_SortingAreaIcon_ByName_Highlighted: 32952820
+      FP_DeckPanel_SortingAreaIcon_ByStackAmount: -1297996869
+      FP_DeckPanel_SortingAreaIcon_ByStackAmount_Highlighted: 137083539
+      FP_DeckPanel_SortingIcon: -1069269564
+      FP_DeckPanel_SortingIcon_Highlighted: 880427245
+      FP_DeckPanel_SpeedRunx2Button: -584444406
+      FP_DeckPanel_SpeedRunx2Button_Highlighted: 1163208265
+      FP_DeckPanel_SpeedRunx3Button: -1752117120
+      FP_DeckPanel_SpeedRunx3Button_Highlighted: 250528957
+      FP_DeckPanel_SpriteSheet_11: -3842657
+      FP_DeckPanel_SpriteSheet_19: -933357322
+      FP_DeckPanel_SpriteSheet_26: 339439320
+      FP_DeckPanel_SpriteSheet_27: 1613444669
+      FP_DeckPanel_SpriteSheet_28: -173662040
+      FP_DeckPanel_SpriteSheet_29: 740925932
+      FP_DeckPanel_SpriteSheet_36: -282017837
+      FP_DeckPanel_SpriteSheet_37: -1172400534
+      FP_DeckPanel_SpriteSheet_41: 962918079
+      FP_DeckPanel_SpriteSheet_47: 213201224
+      FP_DeckPanel_StatsPanelDivider: 1548238004
+      FP_DeckPanel_StatsPanel_Background: 630735149
+      FP_DeckPanel_TechHubIcon: -1615457642
+      FP_DeckPanel_TechHubIcon_Highlighted: -1026606264
+      FP_DeckPanel_TechHubIcon_Locked: 1091190363
+      FP_DeckPanel_TechHubIcon_Notificated: -808503198
+      FP_DeckPanel_TechPointCounterIcon: -610329793
+      FP_DeckPanel_TechTreeIcon: -291543369
+      FP_DeckPanel_TechTreeIcon_Highlighted: -1109991414
+      FP_DeckPanel_TechTreeIcon_Locked: -41789226
+      FP_DeckPanel_TechTreeIcon_Notificated: -981266872
+      FP_DeckPanel_ToggleArrow: -443795206
+      FP_DeckPanel_ToggleArrow_Highlighted: -2023030202
+      FP_DeckPanel_ToogleAreaBackground: -2051598292
+      FP_DeckPanel_TraderIcon: -1230806482
+      FP_DeckPanel_TraderIcon_Highlighted: 345094006
+      FP_DeckPanel_TraderIcon_Locked: -2062981725
+      FP_DeckPanel_TraderIcon_Notificated: 89617660
+      FP_DeckPanel_UpperDeckArea_VerticalDivider: -805446021
+      FP_DeckPanel_UpperHeaderBar: 627664192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
