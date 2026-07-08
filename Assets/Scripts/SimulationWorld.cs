@@ -20,6 +20,16 @@ namespace CardLinker.Simulation
 
         public Dictionary<string, GridContext> GridContexts = new Dictionary<string, GridContext>();
 
+        /// <summary>
+        /// Tüm simülasyon verisini temizler. "New Game" başlarken veya oturum
+        /// MainMenu'ye dönerken (session sonu) çağrılır - böylece bir sonraki
+        /// oturum sıfırdan veya (ileride) bir save dosyasından kurulabilir.
+        /// </summary>
+        public void Clear()
+        {
+            GridContexts.Clear();
+        }
+
         public void Tick(float deltaTime)
         {
             foreach (var grid in GridContexts.Values)

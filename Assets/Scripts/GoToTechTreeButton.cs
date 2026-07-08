@@ -8,9 +8,11 @@ namespace CardLinker.UI
     /// </summary>
     public class GoToTechTreeButton : MonoBehaviour
     {
+        private const string TechTreeSceneName = "TechTreeScene";
+
         public void OnClick()
         {
-            SceneFlowManager.Instance.GoToTechTree();
+            OverlaySceneManager.Instance.ShowOverlay(TechTreeSceneName);
         }
     }
 }
